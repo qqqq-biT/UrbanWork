@@ -10,4 +10,4 @@ print (2 * (2 + 2))
 print (6 == 8)
 
 print("4th program")
-print(int(123.456 * 10 % 10))
+print(int(float('123.456') * 10) % 10)
